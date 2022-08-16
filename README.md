@@ -1,3 +1,3 @@
-# 319tests
+# WebsiteTests
 
-Test Cases for COM S 319 Final Project
+Test Cases for an online planner website. Requires chromedriver application in order to run.
